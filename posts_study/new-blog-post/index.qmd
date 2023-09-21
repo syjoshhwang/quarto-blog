@@ -1,5 +1,5 @@
 ---
-title: '블로그를 시작해 보아요'
+title: 'Test Post 1'
 date: '2022-06-01'
 date-format: long
 categories: ['123', 'Second Tag']
@@ -14,9 +14,11 @@ page-layout: article
 
 ------------------------------------------------------------------------
 
-## 선형대수 둘러보기
+## Test Post 1
 
 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다.
+
+bias-variance tradeoff
 
 $$\begin{align*}      E(Y-\hat{Y})^2 &= E[f(X) + \epsilon - \hat{f}(X)]^2 \\                     &= \underbrace{\left[f(X)-\hat{f}(X)\right]^2}_\text{reducible} + \underbrace{Var(\epsilon)}_\text{irreducible}    \end{align*}$$
 
@@ -34,6 +36,8 @@ library(tidyverse)
 ggplot(mpg) +
   geom_jitter(aes(cty, hwy), size = 4, alpha = 0.5) 
 ```
+
+Some Sample Equations :
 
 $$
 \begin{align*}

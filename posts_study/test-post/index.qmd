@@ -1,5 +1,5 @@
 ---
-title: "[선형대수] Singular Value Decomposition"
+title: "[Linear Algebra] Test Post"
 date: 2023-01-26
 date-format: long
 page-layout: article
@@ -14,8 +14,10 @@ categories: [Linear Algebra]
 
 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.
 
+Equation Example
+
 $$
-\int^R ax^2+bx+c dx
+\int^R (ax^2+bx+c)  \ dx
 $$
 
 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.
@@ -25,11 +27,7 @@ $$
 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.
 
 $$
-\int^R ax^2+bx+c dx
-$$
-
-$$
-\int^R ax^2+bx+c dx
+\int^R (ax^2+bx+c)  \ dx
 $$
 
 Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1
