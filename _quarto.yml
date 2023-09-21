@@ -3,18 +3,34 @@ project:
   output-dir: docs
 
 website:
-  title: "quarto-blog"
+  title: "Josh's Data Science Blog"
+  description: "This is Josh's personal Blog."
   navbar:
+    search: true
+    pinned: false
+    collapse: false
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - text: "Home"
+        file: home.qmd
+      - text: "Study Note"
+        file: study.qmd
+      - text: "Blog"
+        file: blog.qmd
+    background: white
+    foreground: black
 format:
   html:
-    theme: cosmo
     css: styles.css
+    toc: true
+    toc-location: right
+    page-layout: full
+    smooth-scroll: true
+    fontsize: 97%
+    #linestretch: 110%
+    theme:
+      light: journal
+      dark: [journal, theme-dark.scss]
+
 
 editor: visual
 
