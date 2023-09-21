@@ -6,8 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2022-06-01">
-<meta name="description" content="이번 시간에는 Singular Value Decomposition에 대해서 알아봅니다. SVD가 기하학적으로 어떤 의미가 있는지, 또 이 분해를 통해서 어떻게 활용할 수 있는지 알아봅시다.">
+<meta name="dcterms.date" content="2023-09-21">
+<meta name="description" content="이번에는 요런 내용에 대해서 다뤄볼 것입니다. 특히 A와 B가 어떤 관계가 있고, 또 왜 이런 관계를 가지게 되었는지 심도있게 알아보고자 합니다.">
 
 <title>Josh’s Data Science Blog - Test Post 1</title>
 <style>
@@ -173,7 +173,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#선형대수-둘러보기" id="toc-선형대수-둘러보기" class="nav-link active" data-scroll-target="#선형대수-둘러보기">선형대수 둘러보기</a></li>
+  <li><a href="#test-post-1" id="toc-test-post-1" class="nav-link active" data-scroll-target="#test-post-1">Test Post 1</a></li>
   <li><a href="#merriweather" id="toc-merriweather" class="nav-link" data-scroll-target="#merriweather">Merriweather</a>
   <ul class="collapse">
   <li><a href="#code" id="toc-code" class="nav-link" data-scroll-target="#code">3 - Code</a></li>
@@ -189,16 +189,16 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">블로그를 시작해 보아요</h1>
+<h1 class="title">Test Post 1</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">123</div>
-    <div class="quarto-category">Second Tag</div>
+    <div class="quarto-category">Sample Post</div>
+    <div class="quarto-category">Statistics</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    이번 시간에는 Singular Value Decomposition에 대해서 알아봅니다. SVD가 기하학적으로 어떤 의미가 있는지, 또 이 분해를 통해서 어떻게 활용할 수 있는지 알아봅시다.
+    이번에는 요런 내용에 대해서 다뤄볼 것입니다. 특히 A와 B가 어떤 관계가 있고, 또 왜 이런 관계를 가지게 되었는지 심도있게 알아보고자 합니다.
   </div>
 </div>
 
@@ -209,7 +209,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 1, 2022</p>
+      <p class="date">September 21, 2023</p>
     </div>
   </div>
   
@@ -220,9 +220,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </header>
 
 <hr>
-<section id="선형대수-둘러보기" class="level2">
-<h2 class="anchored" data-anchor-id="선형대수-둘러보기">선형대수 둘러보기</h2>
+<section id="test-post-1" class="level2">
+<h2 class="anchored" data-anchor-id="test-post-1">Test Post 1</h2>
 <p>설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다.</p>
+<p>bias-variance tradeoff</p>
 <p><span class="math display">\[\begin{align*}      E(Y-\hat{Y})^2 &amp;= E[f(X) + \epsilon - \hat{f}(X)]^2 \\                     &amp;= \underbrace{\left[f(X)-\hat{f}(X)\right]^2}_\text{reducible} + \underbrace{Var(\epsilon)}_\text{irreducible}    \end{align*}\]</span></p>
 </section>
 <section id="merriweather" class="level2">
@@ -240,6 +241,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p><img src="index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
+<p>Some Sample Equations :</p>
 <p><span class="math display">\[
 \begin{align*}
     \ell(\beta) &amp;= \sum_{i=1}^{n} \left[y_i log(p(x_i)) + (1-y_i) log(1-p(x_i)) \right] \\
