@@ -1,5 +1,5 @@
 ---
-title: "[Linear Algebra] Test Post"
+title: "Test Post"
 date: 2023-01-26
 date-format: long
 page-layout: article

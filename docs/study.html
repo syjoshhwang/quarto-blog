@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -136,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="123">123 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Linear Algebra">Linear Algebra <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Second Tag">Second Tag <span class="quarto-category-count">(2)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Linear Algebra">Linear Algebra <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Sample Post">Sample Post <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Statistics">Statistics <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -172,75 +172,43 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1695222000000" data-listing-file-modified-sort="1695278344612" data-listing-reading-time-sort="0.045">
+<div class="quarto-post image-right" data-index="0" data-categories="Sample Post,Statistics" data-listing-date-sort="1695222000000" data-listing-file-modified-sort="1695316509206" data-listing-reading-time-sort="3.865">
 <div class="body">
-<a href="./posts_study/post-with-code/index.html">
+<a href="./posts_study/new-blog-post/index.html">
 <h3 class="no-anchor listing-title">
-Post With Code
+Test Post 1
 </h3>
 <div class="listing-subtitle">
 
 </div>
 </a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
+<div class="listing-category" onclick="window.quartoListingCategory('Sample Post'); return false;">
+Sample Post
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
+<div class="listing-category" onclick="window.quartoListingCategory('Statistics'); return false;">
+Statistics
 </div>
 </div>
-<a href="./posts_study/post-with-code/index.html">
+<a href="./posts_study/new-blog-post/index.html">
 <div class="listing-description">
-This is a post with executable code.
+<p>이번에는 요런 내용에 대해서 다뤄볼 것입니다. 특히 A와 B가 어떤 관계가 있고, 또 왜 이런 관계를 가지게 되었는지 심도있게 알아보고자 합니다.</p>
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts_study/post-with-code/index.html">
+<a href="./posts_study/new-blog-post/index.html">
 <div class="listing-date">
 Sep 21, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1694962800000" data-listing-file-modified-sort="1695278344605" data-listing-reading-time-sort="0.16">
-<div class="body">
-<a href="./posts_study/welcome/index.html">
-<h3 class="no-anchor listing-title">
-Welcome To My Blog
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<a href="./posts_study/welcome/index.html">
-<div class="listing-description">
-This is the first post in a Quarto blog. Welcome!
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts_study/welcome/index.html">
-<div class="listing-date">
-Sep 18, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Linear Algebra" data-listing-date-sort="1674658800000" data-listing-file-modified-sort="1695316095053" data-listing-reading-time-sort="1.3">
+<div class="quarto-post image-right" data-index="1" data-categories="Linear Algebra" data-listing-date-sort="1674658800000" data-listing-file-modified-sort="1695316410531" data-listing-reading-time-sort="1.3">
 <div class="body">
 <a href="./posts_study/test-post/index.html">
 <h3 class="no-anchor listing-title">
-[Linear Algebra] Test Post
+Test Post
 </h3>
 <div class="listing-subtitle">
 
@@ -261,70 +229,6 @@ Linear Algebra
 <a href="./posts_study/test-post/index.html">
 <div class="listing-date">
 Jan 26, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="123,Second Tag" data-listing-date-sort="1654009200000" data-listing-file-modified-sort="1695306253669" data-listing-reading-time-sort="3.845">
-<div class="body">
-<a href="./posts_study/for-test-new-blog-post/index.html">
-<h3 class="no-anchor listing-title">
-블로그를 시작해 보아요
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('123'); return false;">
-123
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Second Tag'); return false;">
-Second Tag
-</div>
-</div>
-<a href="./posts_study/for-test-new-blog-post/index.html">
-<div class="listing-description">
-<p>이번 시간에는 Singular Value Decomposition에 대해서 알아봅니다. SVD가 기하학적으로 어떤 의미가 있는지, 또 이 분해를 통해서 어떻게 활용할 수 있는지 알아봅시다.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts_study/for-test-new-blog-post/index.html">
-<div class="listing-date">
-Jun 1, 2022
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="123,Second Tag" data-listing-date-sort="1654009200000" data-listing-file-modified-sort="1695316160966" data-listing-reading-time-sort="3.865">
-<div class="body">
-<a href="./posts_study/new-blog-post/index.html">
-<h3 class="no-anchor listing-title">
-Test Post 1
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('123'); return false;">
-123
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Second Tag'); return false;">
-Second Tag
-</div>
-</div>
-<a href="./posts_study/new-blog-post/index.html">
-<div class="listing-description">
-<p>이번 시간에는 Singular Value Decomposition에 대해서 알아봅니다. SVD가 기하학적으로 어떤 의미가 있는지, 또 이 분해를 통해서 어떻게 활용할 수 있는지 알아봅시다.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts_study/new-blog-post/index.html">
-<div class="listing-date">
-Jun 1, 2022
 </div>
 </a>
 </div>

@@ -25,7 +25,7 @@ format:
     toc-location: right
     page-layout: full
     smooth-scroll: true
-    fontsize: 87%
+    fontsize: 90%
     #linestretch: 110%
     theme:
       light: journal
