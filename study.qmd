@@ -19,10 +19,6 @@ title-block-banner: false
 
     If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach.
 
-<figcaption class="blockquote-footer">
-
-[Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)
-
-</figcaption>
+<figcaption class="blockquote-footer">[Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)</figcaption>
 
 </figure>
