@@ -35,34 +35,6 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts_study/welcome/index.html",
-    "href": "posts_study/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts_study/test-post/index.html#singular-value-decomposition이란",
-    "href": "posts_study/test-post/index.html#singular-value-decomposition이란",
-    "title": "[선형대수] Singular Value Decomposition",
-    "section": "Singular Value Decomposition이란?",
-    "text": "Singular Value Decomposition이란?\n먼저 직관 위주로 개념을 설명해보겠습니다. Singular Value Decomposition이란 어떤 것으로 어떻게 하면 어떻게 된다는 개념을 기초로 합니다. 그렇기 때문에 어쩌구 저쩌구 개념입니다. 그렇다면 개념을 설명해보겠습니다.\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\\[\n\\int^R ax^2+bx+c dx\n\\]\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\n언제 필요할까?\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\\[\n\\int^R ax^2+bx+c dx\n\\]\n\\[\n\\int^R ax^2+bx+c dx\n\\]\nContent Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1\n\n\n계산 증명\nContent Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Josh's Data Science Blog",
-    "section": "",
-    "text": "안녕하세요! 대학원에서 통계학을 공부하고 있습니다.\n공부한 내용을 꾸준히 정리하고, 데이터 분석과 관련된 생각을 공유하고자 블로그를 시작하게 되었습니다.\n잘 부탁드립니다 😁"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n블로그를 시작하며\n\n\n\nthoughts\n\n\n\n블로그를 시작하게 된 동기와 앞으로\n\n\n\nJul 7, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts_study/new-blog-post/index.html#선형대수-둘러보기",
     "href": "posts_study/new-blog-post/index.html#선형대수-둘러보기",
     "title": "블로그를 시작해 보아요",
@@ -89,5 +61,33 @@
     "title": "블로그를 시작해 보아요",
     "section": "2 - Margin captions",
     "text": "2 - Margin captions\n\nggplot(data = gapminder::gapminder, mapping = aes(x = lifeExp, fill = continent)) +\n  stat_density(position = \"identity\", alpha = 0.5)\n\n\n\n\nBla bla bla. This is a caption in the margin. Super cool isn’t it?"
+  },
+  {
+    "objectID": "posts_study/welcome/index.html",
+    "href": "posts_study/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts_study/test-post/index.html#singular-value-decomposition이란",
+    "href": "posts_study/test-post/index.html#singular-value-decomposition이란",
+    "title": "[선형대수] Singular Value Decomposition",
+    "section": "Singular Value Decomposition이란?",
+    "text": "Singular Value Decomposition이란?\n먼저 직관 위주로 개념을 설명해보겠습니다. Singular Value Decomposition이란 어떤 것으로 어떻게 하면 어떻게 된다는 개념을 기초로 합니다. 그렇기 때문에 어쩌구 저쩌구 개념입니다. 그렇다면 개념을 설명해보겠습니다.\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\\[\n\\int^R ax^2+bx+c dx\n\\]\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\n언제 필요할까?\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\\[\n\\int^R ax^2+bx+c dx\n\\]\n\\[\n\\int^R ax^2+bx+c dx\n\\]\nContent Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1\n\n\n계산 증명\nContent Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Josh's Data Science Blog",
+    "section": "",
+    "text": "안녕하세요! 대학원에서 통계학을 공부하고 있습니다.\n공부한 내용을 꾸준히 정리하고, 데이터 분석과 관련된 생각을 공유하고자 블로그를 시작하게 되었습니다.\n잘 부탁드립니다 😁"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n블로그를 시작하며\n\n\n\nthoughts\n\n\n\n블로그를 시작하게 된 동기와 앞으로\n\n\n\nJul 7, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
