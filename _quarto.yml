@@ -27,9 +27,9 @@ format:
     smooth-scroll: true
     fontsize: 90%
     #linestretch: 110%
-    theme:
-      light: journal
-      dark: [journal, theme-dark.scss]
+#    theme:
+#      light: journal
+#      dark: [journal, theme-dark.scss]
 
 
 editor: visual
