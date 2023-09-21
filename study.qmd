@@ -17,14 +17,12 @@ title-block-banner: false
 
 <blockquote class="blockquote">
 
-    If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach.
+`` `If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach.` ``
 
-<figcaption class="blockquote-footer">
+<figcaption class="blockquote-footer">[Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)</figcaption>
 
-[Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)
-
-</figcaption>
+</blockquote>
 
 </figure>
 
-\ 
+   
