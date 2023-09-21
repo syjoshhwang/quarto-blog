@@ -4,14 +4,14 @@ project:
 
 website:
   title: "Josh's Data Science Blog"
-  description: "This is Josh's personal Blog."
+  #description: "This is Josh's personal Blog."
   navbar:
     search: true
     pinned: false
     collapse: false
     right:
       - text: "Home"
-        file: home.qmd
+        file: index.qmd
       - text: "Study Note"
         file: study.qmd
       - text: "Blog"
