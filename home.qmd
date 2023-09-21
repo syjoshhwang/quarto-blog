@@ -1,0 +1,22 @@
+---
+title: ""
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: mailbox
+      text: mail
+      href: mailto:syjoshhwang@gmail.com
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/syjoshhwang
+---
+
+안녕하세요! **Josh**입니다. 대학원에서 통계학을 공부하고 있습니다.
+
+공부한 내용을 꾸준히 정리하고, 데이터 분석과 관련된 생각을 공유하고자 블로그를 시작하게 되었습니다.
+
+잘 부탁드립니다 😁

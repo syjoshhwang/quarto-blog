@@ -1,0 +1,32 @@
+---
+title: "Study Note"
+listing:
+  contents: study
+  fields: [date, title, description, categories]
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+page-layout: full
+title-block-banner: false
+---
+
+<figure class="text-end">
+
+<blockquote class="blockquote">
+
+    If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach.
+
+</blockquote>
+
+<figcaption class="blockquote-footer">
+
+[Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)
+
+</figcaption>
+
+</figure>
+
+     
