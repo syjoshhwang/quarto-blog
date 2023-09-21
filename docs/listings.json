@@ -1,10 +1,19 @@
 [
   {
     "listing": "/study.html",
-    "items": []
+    "items": [
+      "/posts_study/post-with-code/index.html",
+      "/posts_study/welcome/index.html",
+      "/posts_study/test-post/index.html",
+      "/posts_study/new-blog-post/index.html"
+    ]
   },
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/posts_blog/post-with-code/index.html",
+      "/posts_blog/welcome/index.html",
+      "/posts_blog/01_about_this_blog/index.html"
+    ]
   }
 ]

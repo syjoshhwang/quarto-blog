@@ -4,21 +4,49 @@
     "href": "study.html",
     "title": "Study Note",
     "section": "",
-    "text": "If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach.\n\nRichard Feynman\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach.\n\nRichard Feynman\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n[선형대수] Singular Value Decomposition\n\n\n\n\n\n\n\nLinear Algebra\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\n\n\n\n\n\n\n블로그를 시작해 보아요\n\n\n\n\n\n\n\n123\n\n\nSecond Tag\n\n\n\n\n이번 시간에는 Singular Value Decomposition에 대해서 알아봅니다. SVD가 기하학적으로 어떤 의미가 있는지, 또 이 분해를 통해서 어떻게 활용할 수 있는지 알아봅시다.\n\n\n\n\n\n\nJun 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
+    "objectID": "posts_blog/post-with-code/index.html",
+    "href": "posts_blog/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts_blog/welcome/index.html",
+    "href": "posts_blog/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts_blog/01_about_this_blog/index.html#블로그를-시작하게-된-계기",
+    "href": "posts_blog/01_about_this_blog/index.html#블로그를-시작하게-된-계기",
+    "title": "블로그를 시작하며",
+    "section": "블로그를 시작하게 된 계기",
+    "text": "블로그를 시작하게 된 계기\n다시 블로그를 시작하게 되었습니다. 제가 블로그를 만든건 이번이 처음이 아니에요. 주저리 주저리 주저리 주저리주저리 주저리주저리 주저리주저리 주저리주저리 주저리주저리 주저리"
+  },
+  {
+    "objectID": "posts_study/post-with-code/index.html",
+    "href": "posts_study/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts_study/welcome/index.html",
+    "href": "posts_study/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts_study/test-post/index.html#singular-value-decomposition이란",
+    "href": "posts_study/test-post/index.html#singular-value-decomposition이란",
+    "title": "[선형대수] Singular Value Decomposition",
+    "section": "Singular Value Decomposition이란?",
+    "text": "Singular Value Decomposition이란?\n먼저 직관 위주로 개념을 설명해보겠습니다. Singular Value Decomposition이란 어떤 것으로 어떻게 하면 어떻게 된다는 개념을 기초로 합니다. 그렇기 때문에 어쩌구 저쩌구 개념입니다. 그렇다면 개념을 설명해보겠습니다.\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\\[\n\\int^R ax^2+bx+c dx\n\\]\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\n언제 필요할까?\n그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.\n\\[\n\\int^R ax^2+bx+c dx\n\\]\n\\[\n\\int^R ax^2+bx+c dx\n\\]\nContent Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1\n\n\n계산 증명\nContent Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1"
   },
   {
     "objectID": "index.html",
@@ -32,6 +60,34 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "No matching items"
+    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nSep 21, 2023\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n블로그를 시작하며\n\n\n\nthoughts\n\n\n\n블로그를 시작하게 된 동기와 앞으로\n\n\n\nJul 7, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts_study/new-blog-post/index.html#선형대수-둘러보기",
+    "href": "posts_study/new-blog-post/index.html#선형대수-둘러보기",
+    "title": "블로그를 시작해 보아요",
+    "section": "선형대수 둘러보기",
+    "text": "선형대수 둘러보기\n설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다. 설명 내용입니다. 설명중입니다.\n\\[\\begin{align*}      E(Y-\\hat{Y})^2 &= E[f(X) + \\epsilon - \\hat{f}(X)]^2 \\\\                     &= \\underbrace{\\left[f(X)-\\hat{f}(X)\\right]^2}_\\text{reducible} + \\underbrace{Var(\\epsilon)}_\\text{irreducible}    \\end{align*}\\]"
+  },
+  {
+    "objectID": "posts_study/new-blog-post/index.html#merriweather",
+    "href": "posts_study/new-blog-post/index.html#merriweather",
+    "title": "블로그를 시작해 보아요",
+    "section": "Merriweather",
+    "text": "Merriweather\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n3 - Code\nThis is inline code plus a small code chunk.\n\nlibrary(tidyverse)\n\nggplot(mpg) +\n  geom_jitter(aes(cty, hwy), size = 4, alpha = 0.5) \n\n\n\n\n\\[\n\\begin{align*}\n    \\ell(\\beta) &= \\sum_{i=1}^{n} \\left[y_i log(p(x_i)) + (1-y_i) log(1-p(x_i)) \\right] \\\\\n                &= \\sum_{i=1}^{n} \\left[y_i\\log(p(x_i)) \\ + \\ log(1-p(x_i)) \\ - \\ y_i log(1-p(x_i)) \\right] \\\\\n                &= \\sum_{i=1}^{n} y_i log \\left[ \\frac{p(x_i)}{1-p(x_i)} + \\sum_{i=1}^n=1 log(1-p(x_i))   \\right] \\\\\n                &= \\sum_{i=1}^{n} y_i (\\beta^T x_i) + \\sum_{i=1}^{n} \\left[ -log(1+exp(\\beta^T x_i)) \\right] \\\\\n                &= \\sum_{i=1}^{n} \\left[ y_i(\\beta^T x_i) - log(1+exp(\\beta^T x_i)) \\right]\n\\end{align*}\n\\]\n\n\n3 - Tabsets\n\n\n\n\nTransforming OLS estimatesMaximizing likelihood\n\n\n\n\nCode\npreds_lm %>% \n  ggplot(aes(body_mass_g, bill_length_mm, col = correct)) +\n  geom_jitter(size = 4, alpha = 0.6) +\n  facet_wrap(vars(species)) +\n  scale_color_manual(values = c('grey60', thematic::okabe_ito(3)[3])) +\n  scale_x_continuous(breaks = seq(3000, 6000, 1000)) +\n  theme_minimal(base_size = 12) +\n  theme(\n    legend.position = 'top', \n    panel.background = element_rect(color = 'black'),\n    panel.grid.minor = element_blank()\n  ) +\n  labs(\n    x = 'Body mass (in g)',\n    y = 'Bill length (in mm)'\n  )\n\n\n\n\n\n\n\n\n\nCode\nglm.mod <- glm(sex ~ body_mass_g + bill_length_mm + species, family = binomial, data = dat)\n\npreds <- dat %>% \n  mutate(\n    prob.fit = glm.mod$fitted.values,\n    prediction = if_else(prob.fit > 0.5, 'male', 'female'),\n    correct = if_else(sex == prediction, 'correct', 'incorrect')\n  )\n\n\npreds %>% \n  ggplot(aes(body_mass_g, bill_length_mm, col = correct)) +\n  geom_jitter(size = 4, alpha = 0.6) +\n  facet_wrap(vars(species)) +\n  scale_x_continuous(breaks = seq(3000, 6000, 1000)) +\n  scale_color_manual(values = c('grey60', thematic::okabe_ito(3)[3])) +\n  theme_minimal(base_size = 10) +\n  theme(\n    legend.position = 'top', \n    panel.background = element_rect(color = 'black'),\n    panel.grid.minor = element_blank()\n  ) +\n  labs(\n    x = 'Body mass (in g)',\n    y = 'Bill length (in mm)'\n  )\n\n\n\n\n\n\n\n\n\n4 - Some math stuff\n\\[\n\\int_0^1 f(x) \\ dx\n\\]"
+  },
+  {
+    "objectID": "posts_study/new-blog-post/index.html#columns",
+    "href": "posts_study/new-blog-post/index.html#columns",
+    "title": "블로그를 시작해 보아요",
+    "section": "2 - Columns",
+    "text": "2 - Columns\n\n\n\ngeom_density(\n  mapping = NULL,\n  data = NULL,\n  stat = \"density\",\n  position = \"identity\",\n  ...,\n  na.rm = FALSE,\n  orientation = NA,\n  show.legend = NA,\n  inherit.aes = TRUE,\n  outline.type = \"upper\"\n)\n\n\nstat_density(\n  mapping = NULL,\n  data = NULL,\n  geom = \"area\",\n  position = \"stack\",\n  ...,\n  bw = \"nrd0\",\n  adjust = 1,\n  kernel = \"gaussian\",\n  n = 512,\n  trim = FALSE,\n  na.rm = FALSE,\n  orientation = NA,\n  show.legend = NA,\n  inherit.aes = TRUE\n)"
+  },
+  {
+    "objectID": "posts_study/new-blog-post/index.html#margin-captions",
+    "href": "posts_study/new-blog-post/index.html#margin-captions",
+    "title": "블로그를 시작해 보아요",
+    "section": "2 - Margin captions",
+    "text": "2 - Margin captions\n\nggplot(data = gapminder::gapminder, mapping = aes(x = lifeExp, fill = continent)) +\n  stat_density(position = \"identity\", alpha = 0.5)\n\n\n\n\nBla bla bla. This is a caption in the margin. Super cool isn’t it?"
   }
 ]

@@ -1,0 +1,39 @@
+---
+title: "[선형대수] Singular Value Decomposition"
+date: 2023-01-26
+date-format: long
+page-layout: article
+categories: [Linear Algebra]
+---
+
+------------------------------------------------------------------------
+
+## Singular Value Decomposition이란?
+
+먼저 직관 위주로 개념을 설명해보겠습니다. `Singular Value Decomposition`이란 어떤 것으로 어떻게 하면 어떻게 된다는 개념을 기초로 합니다. 그렇기 때문에 어쩌구 저쩌구 개념입니다. 그렇다면 개념을 설명해보겠습니다.
+
+그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.
+
+$$
+\int^R ax^2+bx+c dx
+$$
+
+그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.
+
+### 언제 필요할까?
+
+그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다. 그렇다면 개념을 설명해보겠습니다.
+
+$$
+\int^R ax^2+bx+c dx
+$$
+
+$$
+\int^R ax^2+bx+c dx
+$$
+
+Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1
+
+### 계산 증명
+
+Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1Content Example 1

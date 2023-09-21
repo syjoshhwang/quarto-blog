@@ -25,11 +25,11 @@ format:
     toc-location: right
     page-layout: full
     smooth-scroll: true
-    fontsize: 90%
+    fontsize: 93%
     #linestretch: 110%
-#    theme:
-#      light: journal
-#      dark: [journal, theme-dark.scss]
+    theme:
+      light: journal
+      dark: [journal, theme-dark.scss]
 
 
 editor: visual
